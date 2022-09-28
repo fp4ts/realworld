@@ -1,7 +1,7 @@
 docs
 dist
 lib
-
+test.db
 
 # Yarn 2.0
 
